@@ -1,0 +1,17 @@
+{
+    "newProduct": {
+        "title": "New Product",
+        "price": 10,
+        "description": "A description",
+        "categoryId": 1,
+        "images": "https://placehold.co/600x400"
+      },
+    "updateProduct": {
+        "title": "Update Product",
+        "price": 20,
+        "description": "Update A description",
+        "categoryId": 1,
+        "images": "https://placehold.co/600x400"
+      }
+  }
+  
